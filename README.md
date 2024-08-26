@@ -1,15 +1,15 @@
 # Introduction to Computer Security
 
-## CECS 478: Section 1 (4833)
+## CECS 478: Section 2 (8176)
 
 ### Fall 2024
 
-| Class Lecture | Time                | Room    |
-|---------------|---------------------|---------|
-| Mon Wed       | 11:00 AM - 12:15 PM | ECS-30 |
+| Class Lecture | Time               | Room   |
+|---------------|--------------------|--------|
+| Tue Thu       | 12:30 PM - 1:45 PM | HC-120 |
 
-| Instructor        | Email                       | Office  | Office Hours               |
-|-------------------|-----------------------------|---------|----------------------------|
+| Instructor        | Email                       | Office  | Office Hours                 |
+|-------------------|-----------------------------|---------|------------------------------|
 | Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-501 | 10:00 - 11:00 AM Mo,Tu,We,Th |
 
 ### Required Textbook
